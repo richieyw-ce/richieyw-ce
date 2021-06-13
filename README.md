@@ -1,9 +1,9 @@
 - 👋 Hello, my name is Richie Yoseph Wijaya from Group 2b SBD
-My group consist of 4 people:
-Aprilia Rahmawati - 1906381716
-Jovanka Chairunnisa - 1906381703
-Richie Yoseph Wijaya -1906355812
-Rigel Ahmad Darmawan - 1906355636
+- My group consist of 4 people:
+1. Aprilia Rahmawati - 1906381716
+2. Jovanka Chairunnisa - 1906381703
+3. Richie Yoseph Wijaya -1906355812
+4. Rigel Ahmad Darmawan - 1906355636
 - 🌱 Below is a read-me.txt about our application
 
 Toko adalah aplikasi online shop yang dibuat menggunakan SQL.
